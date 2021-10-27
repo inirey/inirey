@@ -18,10 +18,8 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=whatsapp-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=api&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=Document-api&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=api&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=inirey&theme=nightowl)
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
