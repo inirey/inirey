@@ -11,12 +11,10 @@
   <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-
 ### Github Stats
 
 <p align="center"><a href="https://github.com/inirey"><img src="https://github-readme-stats.vercel.app/api?username=inirey&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/inirey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ini
-&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/inirey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inirey&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=whatsapp-bot&theme=dark)
