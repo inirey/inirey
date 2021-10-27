@@ -7,7 +7,7 @@
   <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Rey Sekha-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
   <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/inirey"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UChnyRW6n7Xak5El1UGgBBNw"><img src="https://img.shields.io/youtube/channel/subscribers/UChnyRW6n7Xak5El1UGgBBNw=social" /> <br>
+  <a href="https://youtube.com/channel/UChnyRW6n7Xak5El1UGgBBNw"><img src="https://img.shields.io/youtube/channel/subscribers/UChnyRW6n7Xak5El1UGgBBNw?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
