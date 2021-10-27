@@ -18,7 +18,7 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=whatsapp-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=Document-api&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=result-rest-api&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=api&theme=dark)
 
 <p align="center">
