@@ -11,6 +11,8 @@
   <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
+![My card name](https://cardivo.vercel.app/api?name=Rey SekhaS&description=Welcome Cok&image=https://avatars.githubusercontent.com/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_s_e_k_h_a_&github=inirey&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
 ### Github Stats
 
 <p align="center"><a href="https://github.com/inirey"><img src="https://github-readme-stats.vercel.app/api?username=inirey&show_icons=true&theme=radical"></a></p>
