@@ -11,11 +11,6 @@
   <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=whatsapp-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=result-rest-api&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=inirey&repo=api&theme=dark)
-
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
