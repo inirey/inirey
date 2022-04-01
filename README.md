@@ -10,6 +10,18 @@
   <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
+### [`MY BIO`](https://reysekha.space/)
+```
+Intro = {
+"Full Name": "MUHAMMAD RAIHAN NUR SEKHA",
+"Nick name": "SEKHA",
+"Status": "LAJANG",
+"Address": "KENDAL RINGINARUM",
+"Age": "19 YO",
+"Birthday": "12 FEBRUARY 2003"
+}
+```
+
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
