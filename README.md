@@ -15,7 +15,7 @@
 Intro = {
 "Full Name": "MUHAMMAD RAIHAN NUR SEKHA",
 "Nick name": "SEKHA",
-"Status": "LAJANG",
+"Status": "-",
 "Address": "KENDAL RINGINARUM",
 "Age": "19 YO",
 "Birthday": "12 FEBRUARY 2003"
