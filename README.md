@@ -1,3 +1,7 @@
+<p align="center">
+
+<a href="https://youtube.com/channel/UChnyRW6n7Xak5El1UGgBBNw"><img align="center" height="auto" src="https://i.ibb.co/mGYK0S9/2.jpg"/></a>
+
 ### Contact me ☎️
 <p align="center">
   <a href="https://instagram.com/_sekhaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
