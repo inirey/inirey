@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="https://youtube.com/channel/UChnyRW6n7Xak5El1UGgBBNw"><img align="center" height="auto" src="https://i.ibb.co/t242z6P/IMG-20221003-WA0000.jpg"/></a>
+<a href="https://youtube.com/channel/UChnyRW6n7Xak5El1UGgBBNw"><img align="center" height="auto" src="https://avatars.githubusercontent.com/u/85196372?s=400&u=ff29c04b17279b77cb95711107b514eed8564df2&v=4.jpg"/></a>
 
 ### Contact me ☎️
 <p align="center">
