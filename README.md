@@ -1,34 +1,30 @@
-<!-- Animation JSON -->
-<!-- Hacker Typing Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding guy hacker gif"/>
-</p>
 
-<!-- Background Style GIF -->
+<!-- JSON Info with Basic Color -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
-</p>
-
-<h3 align="center">
-  👋🏻 <em>Welcome to my Profile</em> 👾
-</h3>
-
-<!-- JSON Info -->
-<p align="center">
-  <pre>
-{
-  "Nama": "Rins ( Raihan Nur Sekha )",
-  "Skills": [
-    "HTML",
-    "JavaScript",
-    "NodeJS"
-  ],
-  "Hobby": "Coding and Gaming"
-}
+  <pre style="
+    background-color: #2d2d2d;
+    color: #f8f8f2;
+    padding: 15px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    overflow-x: auto;
+  ">
+<span style="color:#f92672;">{</span>
+  <span style="color:#66d9ef;">"Nama"</span><span style="color:#f92672;">:</span> <span style="color:#e6db74;">"Rins ( Raihan Nur Sekha )"</span><span style="color:#f92672;">,</span>
+  <br/>
+  <span style="color:#66d9ef;">"Skills"</span><span style="color:#f92672;">:</span> <span style="color:#f92672;">[</span>
+    <span style="color:#e6db74;">"HTML"</span><span style="color:#f92672;">,</span>
+    <span style="color:#e6db74;">"JavaScript"</span><span style="color:#f92672;">,</span>
+    <span style="color:#e6db74;">"NodeJS"</span>
+  <span style="color:#f92672;">]</span><span style="color:#f92672;">,</span>
+  <br/>
+  <span style="color:#66d9ef;">"Hobby"</span><span style="color:#f92672;">:</span> <span style="color:#e6db74;">"Coding and Gaming"</span>
+<span style="color:#f92672;">}</span>
   </pre>
 </p>
-
----
 
 <h3 align="center">
   👋🏻 <em>Hi there, I'm Rins (Raihan Nur Sekha)!</em> 👾
