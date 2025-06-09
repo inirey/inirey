@@ -72,7 +72,7 @@
 
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100px" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycWZrbGRjYXlkcmE2N2o4N3YwM2w1dDNldm5nMXdxNmpkZWhsMDRpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="100px" />
   <br/>
 
   <!-- Node.js -->
