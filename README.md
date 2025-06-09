@@ -1,4 +1,5 @@
 <!-- Animation JSON -->
+
 <p align="center">
   <img src="https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json" alt="Hacker Typing Animation" width="300px">
 </p>
@@ -11,9 +12,10 @@
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json' // Ganti JSON animasi sesuai keinginanmu
+    path: 'https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json'
   });
 </script>
+
 
 <h3 align="center">
   👋🏻 <em>Hi there, I'm Rins (Raihan Nur Sekha)!</em> 👾
