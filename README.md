@@ -1,14 +1,9 @@
-<!-- Welcome Animation -->
+<!-- Hacker Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=👋🏻+Welcome+to+my+GitHub+Profile!;Enjoy+my+repos+and+projects!;Feel+free+to+connect+with+me+%F0%9F%91%BD" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7TKP9bUjVecUFeRW/giphy.gif" width="300px" alt="Coding guy hacker gif"/>
 </p>
 
-<!-- Hacker Background GIF (terminal style) -->
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="100%" alt="hacker background"/>
-</p>
-
-<!-- Anime GIF Tetap Ada -->
+<!-- Anime Tetap! -->
 <p align="center">
   <img src="https://files.catbox.moe/m36ool.gif" width="350px" />
 </p>
