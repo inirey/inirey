@@ -67,7 +67,7 @@
 <p align="center">
   <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm0zd2EzZ3k1ZTd0YjNocGJyb2dyemlzcnl1NDgxd210bWhzcjh1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif" width="100px" />
   <br/>
 
   <!-- JavaScript -->
