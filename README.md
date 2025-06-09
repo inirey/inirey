@@ -77,7 +77,7 @@
 
   <!-- Node.js -->
   <img src="https://img.shields.io/badge/Node.js-90%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px" />
+  <img src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" width="100px" />
 </p>
 
 ---
