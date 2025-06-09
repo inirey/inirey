@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding guy hacker gif"/>
 </p>
+
 <!-- Background Style GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
@@ -18,26 +19,65 @@
 
 ---
 
-### 📞 Contact me 🔥
+<h3 align="center">
+  📞 Contact me <img src="https://media.giphy.com/media/IYHkV4yHpxlZK/giphy.gif" width="30px" />
+</h3>
 <p align="center">
-  <a href="https://instagram.com/_rinnzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://t.me/sekhaa"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> <br>
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Rey Sekha-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/inirey"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
-  <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"><img src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"/></a>
+  <a href="https://instagram.com/_rinnzz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/0">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100015526687857">
+    <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://t.me/sekhaa">
+    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a> <br>
+  <a href="https://youtu.be/WgeItwiifYs">
+    <img src="https://img.shields.io/badge/YouTube-Rey Sekha-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/inirey">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View">
+    <img src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"/>
+  </a>
 </p>
 
 ---
 
-### 💻 Tools I Use
+<h3 align="center">
+  💻 Tools I Use <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI3NGIxOGM2Zjk4M2FkZjMxZDY1YjVmYTU4NDdmZjkyOTg3YmVhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehTz0Y0UqkGvO7j7F6/giphy.gif" width="30px" />
+</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+  <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+  <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+
+---
+
+<h3 align="center">
+  🚀 My Skills <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30px" />
+</h3>
+<p align="center">
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+  <br/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100px" />
+  <br/>
+
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-90%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px" />
 </p>
 
 ---
