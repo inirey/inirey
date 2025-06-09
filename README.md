@@ -1,29 +1,28 @@
-
-<!-- JSON Info with Basic Color -->
+<!-- JSON Info in Terminal Style -->
 <p align="center">
-  <pre style="
-    background-color: #2d2d2d;
-    color: #f8f8f2;
+  <div style="
+    background-color: #1e1e1e;
+    color: #00ff00;
     padding: 15px;
-    border-radius: 10px;
-    display: inline-block;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
     text-align: left;
-    font-family: Consolas, monospace;
-    font-size: 14px;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    max-width: 500px;
     overflow-x: auto;
+    white-space: pre-wrap;
   ">
-<span style="color:#f92672;">{</span>
-  <span style="color:#66d9ef;">"Nama"</span><span style="color:#f92672;">:</span> <span style="color:#e6db74;">"Rins ( Raihan Nur Sekha )"</span><span style="color:#f92672;">,</span>
-  <br/>
-  <span style="color:#66d9ef;">"Skills"</span><span style="color:#f92672;">:</span> <span style="color:#f92672;">[</span>
-    <span style="color:#e6db74;">"HTML"</span><span style="color:#f92672;">,</span>
-    <span style="color:#e6db74;">"JavaScript"</span><span style="color:#f92672;">,</span>
-    <span style="color:#e6db74;">"NodeJS"</span>
-  <span style="color:#f92672;">]</span><span style="color:#f92672;">,</span>
-  <br/>
-  <span style="color:#66d9ef;">"Hobby"</span><span style="color:#f92672;">:</span> <span style="color:#e6db74;">"Coding and Gaming"</span>
-<span style="color:#f92672;">}</span>
-  </pre>
+    {
+      "Nama": "Rins ( Raihan Nur Sekha )",
+      "Skills": [
+        "HTML",
+        "JavaScript",
+        "NodeJS"
+      ],
+      "Hobby": "Coding and Gaming"
+    }
+  </div>
 </p>
 
 <h3 align="center">
