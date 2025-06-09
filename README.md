@@ -1,4 +1,34 @@
 <!-- Animation JSON -->
+<!-- Hacker Typing Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding guy hacker gif"/>
+</p>
+
+<!-- Background Style GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
+</p>
+
+<h3 align="center">
+  👋🏻 <em>Welcome to my Profile</em> 👾
+</h3>
+
+<!-- JSON Info -->
+<p align="center">
+  <pre>
+{
+  "Nama": "Rins ( Raihan Nur Sekha )",
+  "Skills": [
+    "HTML",
+    "JavaScript",
+    "NodeJS"
+  ],
+  "Hobby": "Coding and Gaming"
+}
+  </pre>
+</p>
+
+---
 
 <h3 align="center">
   👋🏻 <em>Hi there, I'm Rins (Raihan Nur Sekha)!</em> 👾
