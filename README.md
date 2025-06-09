@@ -49,7 +49,7 @@
 ---
 
 <h3 align="center">
-  💻 Tools I Use <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI3NGIxOGM2Zjk4M2FkZjMxZDY1YjVmYTU4NDdmZjkyOTg3YmVhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehTz0Y0UqkGvO7j7F6/giphy.gif" width="30px" />
+  💻 Tools I Use <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyempoM2NnOWlnMXZ4Z3kzeW1vYXYzem9yem4yMHF6NGlxcXRuNTN4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qB2HYA1vVSxooSY/giphy.gif" width="30px" />
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
