@@ -20,7 +20,7 @@
 ---
 
 <h3 align="center">
-  📞 Contact me <img src="https://media.giphy.com/media/IYHkV4yHpxlZK/giphy.gif" width="30px" />
+  📞 Contact me <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydWQzeGZtamVsNXltdTI4MWRnMXJkbWtlY2Z1Znp1NWJyZ3Vpdzc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.gif" width="30px" />
 </h3>
 <p align="center">
   <a href="https://instagram.com/_rinnzz">
@@ -62,7 +62,7 @@
 ---
 
 <h3 align="center">
-  🚀 My Skills <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30px" />
+  🚀 My Skills <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTZsZWtpeXQxZWlteG5kNTY2bmY2cmtjdzdscGhlbDZkMDVpaWRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bErG4YvqeI0GiJNeQ/giphy.gif" width="30px" />
 </h3>
 <p align="center">
   <!-- HTML -->
