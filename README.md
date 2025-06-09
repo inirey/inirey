@@ -1,22 +1,5 @@
 <!-- Animation JSON -->
 
-<p align="center">
-  <img src="https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json" alt="Hacker Typing Animation" width="300px">
-</p>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js"></script>
-<div id="rins-animation" style="width: 300px; height: 300px; margin: auto;"></div>
-<script>
-  var animation = lottie.loadAnimation({
-    container: document.getElementById('rins-animation'),
-    renderer: 'svg',
-    loop: true,
-    autoplay: true,
-    path: 'https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json'
-  });
-</script>
-
-
 <h3 align="center">
   👋🏻 <em>Hi there, I'm Rins (Raihan Nur Sekha)!</em> 👾
 </h3>
