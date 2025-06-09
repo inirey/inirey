@@ -1,6 +1,34 @@
-<!-- Hacker Typing Animation -->
+<!-- Animation JSON -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding guy hacker gif"/>
+  <img src="https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json" alt="Hacker Typing Animation" width="300px">
+</p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js"></script>
+<div id="rins-animation" style="width: 300px; height: 300px; margin: auto;"></div>
+<script>
+  var animation = lottie.loadAnimation({
+    container: document.getElementById('rins-animation'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'https://assets9.lottiefiles.com/packages/lf20_e3ptkzzh.json' // Ganti JSON animasi sesuai keinginanmu
+  });
+</script>
+
+<h3 align="center">
+  👋🏻 <em>Hi there, I'm Rins (Raihan Nur Sekha)!</em> 👾
+</h3>
+
+<p align="center">
+  I'm a passionate coder with strong skills in:
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-90%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+  I love learning new things and building awesome projects! 🚀✨
 </p>
 
 <!-- Background Style GIF -->
