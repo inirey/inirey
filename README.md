@@ -2,8 +2,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding guy hacker gif"/>
 </p>
+<!-- Background Style GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
+</p>
 
-<!-- Anime Tetap! -->
+<h3 align="center">
+  👋🏻 <em>Welcome to my Profile</em> 👾
+</h3>
+
+<!-- Anime! -->
 <p align="center">
   <img src="https://files.catbox.moe/m36ool.gif" width="350px" />
 </p>
