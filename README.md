@@ -1,30 +1,3 @@
-<!-- JSON Info in Terminal Style -->
-<p align="center">
-  <div style="
-    background-color: #1e1e1e;
-    color: #00ff00;
-    padding: 15px;
-    border-radius: 8px;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: left;
-    display: inline-block;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    max-width: 500px;
-    overflow-x: auto;
-    white-space: pre-wrap;
-  ">
-    {
-      "Nama": "Rins ( Raihan Nur Sekha )",
-      "Skills": [
-        "HTML",
-        "JavaScript",
-        "NodeJS"
-      ],
-      "Hobby": "Coding and Gaming"
-    }
-  </div>
-</p>
-
 <h3 align="center">
   👋🏻 <em>Hi there, I'm Rins (Raihan Nur Sekha)!</em> 👾
 </h3>
