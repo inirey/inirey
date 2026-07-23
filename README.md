@@ -25,7 +25,7 @@
 
 <!-- Anime! -->
 <p align="center">
-  <img src="https://i.imgur.com/SnuWwY5.gif" width="350px" />
+  <img src="https://raw.githubusercontent.com/inirey/inirey/main/assets/anime.gif" width="350px" />
 </p>
 
 ---
