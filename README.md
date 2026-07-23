@@ -25,7 +25,7 @@
 
 <!-- Anime! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/inirey/inirey/main/assets/anime.gif" width="350px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyenBreXo3a2M1cWt2cHlkMDd2MzhpbTg3NzIyeTQ2c240cGo1bXN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wkr5U4a2D0Oo3Fnrcb/giphy.gif" width="350px" />
 </p>
 
 ---
