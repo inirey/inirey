@@ -25,7 +25,7 @@
 
 <!-- Anime! -->
 <p align="center">
-  <img src="https://files.catbox.moe/9at9nm.gif" width="350px" />
+  <img src="https://i.imgur.com/SnuWwY5.gif" width="350px" />
 </p>
 
 ---
